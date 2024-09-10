@@ -1,5 +1,9 @@
-function start () {
-    console.log("Comesou")
+const start = () => {
+    let count = 1
+    while(count <= 10){
+        console.log(count)
+        count++ //count = count + 1
+    }
 }
 
 start ()
