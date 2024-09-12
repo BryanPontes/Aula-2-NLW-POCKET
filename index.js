@@ -68,7 +68,7 @@ const cadastrarMeta = async ( ) => {
         {value: meta, checked: false}
     )
 
-    mensagem = "Meta cadastrada com sucesso."
+    mensagem = "Meta cadastrada com sucesso..."
 }
 
 const metasRealizadas = async ( ) => {
